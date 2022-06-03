@@ -1,7 +1,4 @@
-body
-{
 
-}
 .main{
     background-color: black;
     width: 1200px;
@@ -9,7 +6,7 @@ body
 }
 .top
 {
-    background-image: Url("/images/background01.jpg");
+    background-image: url("/images/background01.jpg");
     width: 1200px;
     height: 300px;
     margin: auto;
